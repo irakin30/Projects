@@ -1,0 +1,9 @@
+[submodule "CShell/CShell"]
+	path = CShell/CShell
+	url = https://github.com/irakin30/CShell.git
+[submodule "DITTO/DITTO"]
+	path = DITTO/DITTO
+	url = https://github.com/irakin30/DITTO.git
+[submodule "OCTO/OCTO"]
+	path = OCTO/OCTO
+	url = https://github.com/irakin30/OCTO.git
