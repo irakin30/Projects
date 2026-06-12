@@ -7,3 +7,6 @@
 [submodule "OCTO/OCTO"]
 	path = OCTO/OCTO
 	url = https://github.com/irakin30/OCTO.git
+[submodule "CScrabble/CScrabble"]
+	path = CScrabble/CScrabble
+	url = https://github.com/irakin30/CScrabble.git
